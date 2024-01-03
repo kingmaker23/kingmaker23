@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingmaker23
 - 👀 I’m interested in Developmernt
-- 🌱 I’m currently Hacking
+- 🌱 I’m currently Learn Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
